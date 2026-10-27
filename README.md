@@ -23,12 +23,3 @@ logging, and animation. Built on a course-provided framework (see its own
 README/LICENSE).
 
 **Stack:** Python
-
-## [classifiers/](classifiers) — ML Classifier Comparison
-
-A CLI tool to train and compare SVM, Decision Tree, and Logistic Regression
-classifiers on the Vacuum World dirt-distribution dataset; outputs confusion
-matrices, classification reports, feature importances, and Graphviz decision-tree
-visualizations.
-
-**Stack:** Python, scikit-learn, pandas
