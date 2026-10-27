@@ -32,11 +32,3 @@ matrices, classification reports, feature importances, and Graphviz decision-tre
 visualizations.
 
 **Stack:** Python, scikit-learn, pandas
-
-## [heart-attack-prediction/](heart-attack-prediction) — Heart Attack Risk Prediction
-
-A logistic regression model estimating cardiovascular risk from patient data, with a
-preprocessing pipeline (`StandardScaler`, `OneHotEncoder` via `ColumnTransformer`)
-and a tuned classification threshold to balance recall on an imbalanced dataset.
-
-**Stack:** Python, scikit-learn, pandas
