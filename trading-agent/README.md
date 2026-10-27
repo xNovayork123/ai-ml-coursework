@@ -27,6 +27,13 @@ classifier.
 
 ![Feature importance](slides_output/05_feature_importance.png)
 
+This project's main goal was to practice the end-to-end ML workflow — feature
+engineering, leakage-safe evaluation, and comparing models — rather than to ship a
+profitable trading strategy. Next-day price direction from technical indicators alone
+is close to a random walk, so accuracy was modest; the exercise was as much about
+critically reading those results (what the features can and can't capture, and what
+problem domains are actually a good fit for this approach) as about the model itself.
+
 ## Running
 
 ```bash
